@@ -72,7 +72,7 @@ $layanan = query("SELECT * FROM layanan ORDER BY id DESC");
     <div class="jumbotron jumbotron-fluid">
         <div class="container">
             <h1 class="display-4">Selamat Datang Di Website Dinas Perpustakaan dan Kearsipan Kabupaten Kubu Raya</h1>
-            <a href="register_user.php" class="btn btn-primary tombol">BUAT AKUN</a>
+            <a href="profile.php" class="btn btn-primary tombol">PROFILE</a>
         </div>
     </div>
     <!--Akhir Jumbotron -->
